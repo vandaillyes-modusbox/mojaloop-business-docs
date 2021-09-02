@@ -99,7 +99,7 @@ The Multilateral Net Settlement Position is calculated when a settlement window 
 
 ## Settlement reports
 
-To facilitate DFSP reconciliation and settlement at the settlement bank, the Hub provides various settlement reports:
+To facilitate DFSP reconciliation and settlement at the settlement bank, the Hub provides various settlement reports. A Scheme can choose to have several different reports for different purposes. Below are some examples:
 
 * DFSP Settlement Report: A report issued to a DFSP when settlement has been initiated. It provides the DFSP's bilateral settlement position with each DFSP they transacted with (either as a Payer DFSP or Payee DFSP) in the settlement window(s) being settled. It also provides the Multilateral Net Settlement Position of the DFSP (the sum total of the transfer amounts sent and received by the DFSP in the settlement window(s)).
 * Settlement Bank Report: A report issued to the settlement bank when settlement has been initiated. It provides the bilateral settlement position of each DFSP against every other DFSP that transacted in the settlement window(s) being settled. It also provides the Multilateral Net Settlement Position of each DFSP (the sum total of the transfer amounts sent and received by the DFSP).
