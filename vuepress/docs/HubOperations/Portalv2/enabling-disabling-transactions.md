@@ -1,4 +1,4 @@
-# Enable or disable transactions for a DFSP
+# Disabling and re-enabling transactions for a DFSP
 
 In certain cases, it may be necessary to make a DFSP inactive temporarily or permanently. An example scenario is when you observe highly suspicious behavior and the actual cause needs investigation, the risk of money loss being too high.
 

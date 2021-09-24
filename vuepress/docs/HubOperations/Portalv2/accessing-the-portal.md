@@ -65,7 +65,7 @@ The following table lists all available functionalities, the navigation paths wh
 <td><p>✓</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="enabling-disabling-transactions.html">Enable or disable transactions for a DFSP</a></p></td>
+<td><p><a href="enabling-disabling-transactions.html">Disable and re-enable transactions for a DFSP</a></p></td>
 <td><p><strong>Participants</strong> &gt; <strong>DFSP Financial Positions</strong></p></td>
 <td><p>✓</p></td>
 <td><p>✓</p></td>
