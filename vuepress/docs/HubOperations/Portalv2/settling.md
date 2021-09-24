@@ -61,3 +61,7 @@ When the settlement is finalized, you will see all states displayed with checkma
 \
 <img src="/finalising_settlement_popup.png" /> 
 1. Back on the **Settlements** page, when looking for the settlement, you should see the state of the settlement now display as **Settled**.
+
+::: tip
+In case the settlement state is something other than **Settled**, then it means that the settlement has not finished for some reason. Click **Finalize** again to complete the unfinished settlement process. 
+:::
